@@ -1,0 +1,115 @@
+{
+    "lanches": [
+      {
+        "nome": "X-Salada",
+        "descrição": "Pão, Carne, Queijo, Presunto e Salada",
+        "preço": "9.90",
+        "id": 1
+      },
+      {
+        "nome": "X-Bacon",
+        "descrição": "Pão, Carne, muito bacon, milho e ervilha",
+        "preço": "11.90",
+        "id": 2
+      },
+      {
+        "nome": "X-tudo",
+        "descrição": "Pão, Carne, Salada, Ovo, Queijo, Presunto, Bacon, Milho e Ervilha",
+        "preço": "13.90",
+        "id": 3
+      },
+      {
+        "nome": "X-duplo",
+        "descrição": "Pão, 2 Carnes, Salada, Ovo, Queijo, Presunto, Bacon, Milho e Ervilha",
+        "preço": "15.90",
+        "id": 4
+      }
+    ],
+    "fritas": [
+      {
+        "nome": "Batata Frita Comum",
+        "descrição": "Batatas fritas crocantes, quentes e saborosas em tamanho único.",
+        "preço": "5.90",
+        "id": 1
+      },
+      {
+        "nome": "Batata Frita com Bacon",
+        "descrição": "Batatas fritas com bacon moído ou em cubinhos.",
+        "preço": "7.90",
+        "id": 2
+      },
+      {
+        "nome": "Batata Frita com Cheddar e Bacon",
+        "descrição": "Batatas fricas com cheddar cremoso e bacon moído ou em cubinhos.",
+        "preço": "9.90",
+        "id": 3
+      }
+    ],
+    "bebidas": [
+      {
+        "nome": "Sucos",
+        "descrição": "Goiaba, Laranja, Laranja com Acerola, Maracujá, Melancia",
+        "preço": "9.90",
+        "id": 1
+      },
+      {
+        "nome": "Refrigerante Lata",
+        "descrição": "Coca-Cola, Fanta, Pepsi, Guaraná Antártica",
+        "preço": "5.90",
+        "id": 2
+      },
+      {
+        "nome": "Refrigerante 2L",
+        "descrição": "Coca-Cola, Fanta, Pepsi e Guaraná Antártica",
+        "preço": "10.00",
+        "id": 3
+      }
+    ],
+    "Sobremesas": [
+      {
+        "nome": "Sundae Sabores",
+        "tipos": "Morango, Chocolate, Maracujá e Caramelo",
+        "preço": "10.00",
+        "id": 1
+      },
+      {
+        "nome": "Milk Shake",
+        "tipos": "Baunilha, Morango, Chocolate e Caramelo",
+        "preço": "13.00",
+        "id": 2
+      }
+    ],
+    "Clientes": [
+      {
+        "nome": "Vitória Cristine",
+        "id_lanches": 3,
+        "id_fritas": 2,
+        "id_bebidas": 1,
+        "id": 1,
+        "total": "29.80"
+      },
+      {
+        "nome": "Tallyson Silva",
+        "id_lanches": 4,
+        "id_fritas": 3,
+        "id_bebidas": 2,
+        "id": 2,
+        "total": "31.80"
+      },
+      {
+        "nome": "Anelise Gonçalves",
+        "id_lanches": 3,
+        "id_fritas": 2,
+        "id_bebidas": 3,
+        "id": 3,
+        "total": "33.80"
+      },
+      {
+        "nome": "Thalyta Cristine",
+        "id_lanches": 1,
+        "id_bebidas": 2,
+        "id": 4,
+        "total": "15.80"
+      }
+    ]
+  }
